@@ -1,0 +1,25 @@
+Helyi járatok rendszere
+"Projektünk központi eleme a helyi járatok rendszerének digitalizálása. A menetrend keresőben kategorikusan csoportosítottuk a főbb vonalakat, ami megkönnyíti a felhasználók tájékozódását. A következő indulás kijelzése valós időben mutatja az aktuális járatinformációkat. A PDF formátumú menetrendek integrálása biztosítja, hogy a hagyományos formátum is elérhető maradjon."
+Térkép funkcionalitás
+"A Google Maps API integrációjával létrehoztuk egy interaktív térképes felületet. Az összes kaposvári buszmegálló vizualizálva van a térképen, pontos koordinátákkal. A megállókereső funkció lehetővé teszi a gyors navigációt és az útvonaltervezést. A felhasználók egyszerűen megtalálhatják a hozzájuk legközelebbi megállókat."
+Adatstruktúra
+"Az adatok kezelését JSON formátumban valósítottuk meg, ami rugalmas és hatékony adatkezelést tesz lehetővé. A MÁV architektúrából átvett elemeket adaptáltuk a helyi közlekedés igényeihez. A menetrend frissítése dinamikusan történik, biztosítva az aktuális információk megjelenítését."
+Technológiai stack
+"A projekt JavaScript alapokon nyugszik, ami modern és reszponzív felhasználói élményt biztosít. A megállók keresőrendszere intelligens algoritmusokat használ a gyors találatok érdekében. Az útvonal optimalizálás figyelembe veszi a forgalmi viszonyokat és a menetidőket."
+Backend fejlesztés
+"A Node.js szerver localhost:3000 porton fut, biztosítva a stabil háttérműködést. Az admin panel végpont lehetővé teszi a rendszer felügyeletét és karbantartását. Az NPM függőségek kezelése modern package managerrel történik."
+Szakmai támogatónk: MenetBrand
+"A MenetBrand, mint szakmai partnerünk, biztosítja az API-alapú menetrend szolgáltatást. Szakmai mentorálásuk segítette a projekt fejlődését. Infrastruktúrájuk és rendszertámogatásuk kulcsfontosságú a megbízható működésben."
+Tesztelési folyamat
+"A tesztelést szisztematikusan, Excel alapú dokumentációval végezzük. A teszt mappa strukturált tárolást biztosít a teszteknek. Az API végpontok folyamatos ellenőrzése garantálja a megbízható működést."
+
+ENGLISH SLIDES:
+
+Team Development
+"Our development process relies on GitHub for version control and collaboration. The shared repository ensures code consistency and enables efficient teamwork. This structure allows multiple developers to work simultaneously while maintaining code quality."
+Data Architecture
+"The JSON-based data structure provides flexibility and efficient data handling. Dynamic route handling ensures real-time updates and accurate information. System optimization focuses on performance and user experience."
+Map Integration
+"Google Maps integration provides a seamless user experience with accurate location data. The bus stop visualization helps users navigate the city's transport system. The search optimization ensures quick access to relevant information."
+Future Development
+"Our roadmap includes an online ticket system with personal profiles, enhancing user convenience. Real-time tracking will provide accurate bus locations and arrival times. The planned mobile application will make these features accessible on smartphones.
